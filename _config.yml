@@ -1,8 +1,8 @@
-name: Alpha
-description: Alphs template for Jekyll
-baseurl: '/Alpha-Jekyll-Theme'
+name: Takagotch
+description: 取引量No.1！ *当社比
+baseurl: '/page96'
 
-url: "http://localhost:4000"
+url: "https://takagotch.github.io"
 
 paginate: 10
 
